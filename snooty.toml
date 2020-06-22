@@ -1,4 +1,4 @@
-name = "mongodb-vscode"
+name = invalid
 title = "MongoDB for VS Code"
 
 intersphinx = ["https://docs.mongodb.com/manual/objects.inv"]
