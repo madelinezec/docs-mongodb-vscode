@@ -14,6 +14,7 @@ MongoDB for VS Code
 
 .. include:: /includes/fact-vsce-preview.rst
 
+Test
 MongoDB provides an extension for |vscode| which lets you work with
 MongoDB and your data directly within your coding environment.
 
